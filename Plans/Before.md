@@ -1,3 +1,5 @@
+![aTES_plan_before](https://user-images.githubusercontent.com/23387046/193455385-054f0bb6-d7ab-4a62-b068-93ea1bdc1819.png)
+
 ### Сервисы
 **Auth** - сервис авторизации
 
